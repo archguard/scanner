@@ -149,7 +149,7 @@ class ByteCodeParser {
         return CodeField(
             TypeType = className,
             TypeValue = field.name,
-            Annotaiton = annotations,
+            Annotations = annotations,
             Modifiers = createModifiers(field.access, FIELD_ALLOWED, isInterface, FIELD_EXCLUDED)
         )
     }
