@@ -15,8 +15,8 @@ dependencies {
 
     implementation("com.github.ajalt.clikt:clikt:3.4.0")
 
-    implementation("com.phodal.chapi:chapi-domain:1.5.6")
-    implementation("com.phodal.chapi:chapi-application:1.5.6")
+    implementation("com.phodal.chapi:chapi-domain:1.5.10")
+    implementation("com.phodal.chapi:chapi-application:1.5.10")
 }
 
 application {

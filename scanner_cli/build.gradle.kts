@@ -14,7 +14,7 @@ dependencies {
     implementation("io.ktor:ktor-client-core:2.0.0")
     implementation("ch.qos.logback:logback-classic:1.3.0-alpha14")
     // chapi domain
-    implementation("com.phodal.chapi:chapi-domain:1.5.6")
+    implementation("com.phodal.chapi:chapi-domain:1.5.10")
 
     testImplementation("io.mockk:mockk:1.12.3")
     testImplementation("org.assertj:assertj-core:3.22.0")

@@ -19,7 +19,7 @@ dependencies {
 
     implementation("org.jdbi:jdbi3-core:3.8.2")
 
-    implementation("com.phodal.chapi:chapi-domain:1.5.6")
+    implementation("com.phodal.chapi:chapi-domain:1.5.10")
 
     implementation("org.ow2.asm:asm:9.2")
     implementation("org.ow2.asm:asm-util:9.2")

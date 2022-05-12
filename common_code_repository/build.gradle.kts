@@ -14,7 +14,7 @@ dependencies {
     implementation("org.jdbi:jdbi3-core:3.8.2")
     implementation("mysql:mysql-connector-java:8.0.28")
 
-    implementation("com.phodal.chapi:chapi-domain:1.5.6")
+    implementation("com.phodal.chapi:chapi-domain:1.5.10")
 
     // mock for logger
     implementation("io.github.hakky54:logcaptor:2.7.9")

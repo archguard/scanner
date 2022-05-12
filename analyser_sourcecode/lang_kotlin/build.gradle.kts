@@ -7,7 +7,7 @@ plugins {
 dependencies {
     implementation(project(":scanner_core"))
 
-    implementation("com.phodal.chapi:chapi-ast-kotlin:1.5.6") {
+    implementation("com.phodal.chapi:chapi-ast-kotlin:1.5.10") {
         // around 10mb, only documents files, exclude (reuse in cli?)
         exclude(group = "com.ibm.icu", module = "icu4j")
     }
