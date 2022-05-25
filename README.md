@@ -1,3 +1,5 @@
+# MOVE TO [https://github.com/archguard/archguard](https://github.com/archguard/archguard)
+
 # Arch Scanner
 
 [![CI](https://github.com/archguard/scanner/actions/workflows/ci.yaml/badge.svg)](https://github.com/archguard/scanner/actions/workflows/ci.yaml)
